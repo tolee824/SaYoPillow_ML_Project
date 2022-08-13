@@ -1,4 +1,4 @@
-# SaYo Pillow Machine Learning Project
+# Smart Pillow Stress Detection Machine Learning
 
 
 #### -- Project Status: [Completed]
